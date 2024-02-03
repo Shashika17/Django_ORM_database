@@ -3,7 +3,7 @@
 
 ## USING DOCKER IMAGE
 
-# Run command:-
+### Run command:-
 
     docker compose up --build
 
@@ -24,12 +24,14 @@
 
 ## (1)  ACTIVATE ENVIORMENT
 
-**in cmd type:-**
+### in cmd run this command to activate enviorment:-
+
     env_site/Scripts/activate
 
 ## (2)  INSTALL PACKAGES
 
-**in cmd type:-**
+### in cmd run this command to install packages :-
+
     pip install -r  requirements.txt
 
 ## (3) RUN THE PROJECT (TO START SERVER)
