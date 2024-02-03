@@ -23,12 +23,12 @@
 
 ## (1)  ACTIVATE ENVIORMENT
 
-   **in cmd type:-**
+**in cmd type:-**
     env_site/Scripts/activate
 
 ## (2)  INSTALL PACKAGES
 
-   **in cmd type:-**
+**in cmd type:-**
     pip install -r  requirements.txt
 
 ## (3) RUN THE PROJECT (TO START SERVER)
