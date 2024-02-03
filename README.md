@@ -22,6 +22,8 @@
 
 # ____________[[2ND WAY TO RUN]]____________
 
+## USING PYTHON ENVIORMENTS
+
 ## (1)  ACTIVATE ENVIORMENT
 
 ### in cmd run this command to activate enviorment:-
@@ -36,31 +38,32 @@
 
 ## (3) RUN THE PROJECT (TO START SERVER)
 
-      in cmd navigate to assesment run command:-
-      cd assesment
+### in cmd navigate to assesment run command:-
 
-      and then to start server run command:-
-      python manage.py runserver
+    cd assesment
 
-      and then  open your browser and go to the link <http://localhost:8000/>
+### and then to start server run command:-
+
+    python manage.py runserver
+
+### and then  open your browser and go to the link <http://localhost:8000/>
 
       +-----------------------------------+
       |if there is login to admin:-       |
       |username : shashika                |
       |password : root                    |
       +-----------------------------------+
-    ---------------------------------------------------------------------------
 
 ## TO TEST
 
-# Step1
+## Step1
 
-      define dejango setting module type:-
+### define dejango setting module type:-
+
       $env:DJANGO_SETTINGS_MODULE = "assesment.settings"
-    --------------------------------------------------------------------------
 
-# Step2
+## Step2
 
-      run  test in django admin panel or by typing these commands in cmd :-
+### run  test in django admin panel or by typing these commands in cmd :-
+
       pytest exams/tests.py
-    --------------------------------------------------------------------------  
