@@ -24,19 +24,19 @@
 
 ## USING PYTHON ENVIORMENTS
 
-### (1)  ACTIVATE ENVIORMENT
+### [1] ACTIVATE ENVIORMENT
 
-#### in cmd run this command to activate enviorment:-
+**.** in cmd run this command to activate enviorment:-
 
     env_site/Scripts/activate
 
-### (2)  INSTALL PACKAGES
+### [2]  INSTALL PACKAGES
 
 #### in cmd run this command to install packages :-
 
     pip install -r  requirements.txt
 
-### (3) RUN THE PROJECT (TO START SERVER)
+### [3] RUN THE PROJECT (TO START SERVER)
 
 #### in cmd navigate to assesment run command:-
 
@@ -58,12 +58,12 @@
 
 ## Step1
 
-### define dejango setting module type:-
+### to define dejango setting module type run this command:-
 
       $env:DJANGO_SETTINGS_MODULE = "assesment.settings"
 
 ## Step2
 
-### run  test in django admin panel or by typing these commands in cmd :-
+### run  test in django admin panel or by run this command :-
 
       pytest exams/tests.py
