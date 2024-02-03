@@ -11,7 +11,7 @@
     Make sure you have installed Docker and Docker-Compose in your system. You can download it from the official website [here](https://www.docker.com/get-start)
 
    **Special Note:**
-    after it start it will show [Starting development server at http://0.0.0.0:8000/] 0.0.0.0 is for global deployment it's originally deployed at [http://localhost:8000/] check this link to view page
+    after it start it will show [Starting development server at [http://0.0.0.0:8000/]] 0.0.0.0 is for global deployment it's originally deployed at [ http://localhost:8000/ ] check this link to view page
 
       +-----------------------------------+
       |if there is login to admin:-       |
