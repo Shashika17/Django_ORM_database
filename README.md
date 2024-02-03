@@ -1,5 +1,5 @@
 
-# ____________[[1ST WAY TO RUN]]____________
+# 1ST WAY TO RUN
 
 ## USING DOCKER IMAGE
 
@@ -20,7 +20,7 @@
       +-----------------------------------+
 -------------------------------------------------------------------------------------------------------------------
 
-# ____________[[2ND WAY TO RUN]]____________
+# 2ND WAY TO RUN
 
 ## USING PYTHON ENVIORMENTS
 
@@ -32,21 +32,21 @@
 
 ### [2]  INSTALL PACKAGES
 
-#### in cmd run this command to install packages :-
+**.** in cmd run this command to install packages :-
 
     pip install -r  requirements.txt
 
 ### [3] RUN THE PROJECT (TO START SERVER)
 
-#### in cmd navigate to assesment run command:-
+**.** in cmd navigate to assesment run command:-
 
     cd assesment
 
-#### and then to start server run command:-
+**.** and then to start server run command:-
 
     python manage.py runserver
 
-#### and then  open your browser and go to the link <http://localhost:8000/>
+**.** and then  open your browser and go to the link <http://localhost:8000/>
 
       +-----------------------------------+
       |if there is login to admin:-       |
