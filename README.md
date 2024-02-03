@@ -4,6 +4,7 @@
 ## USING DOCKER IMAGE
 
    **Run command:-**
+   bash
     docker compose up --build
 
    **Note:**
