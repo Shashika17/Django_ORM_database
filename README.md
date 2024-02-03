@@ -3,8 +3,8 @@
 
 ## USING DOCKER IMAGE
 
-   Run command:-
-   docker compose up --build
+    Run command:-
+    docker compose up --build
 
    **Note:**
     Make sure you have installed Docker and Docker-Compose in your system. You can download it from the official website [here](https://www.docker.com/get-start)
