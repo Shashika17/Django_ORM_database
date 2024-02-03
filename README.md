@@ -24,29 +24,29 @@
 
 ## USING PYTHON ENVIORMENTS
 
-## (1)  ACTIVATE ENVIORMENT
+### (1)  ACTIVATE ENVIORMENT
 
-### in cmd run this command to activate enviorment:-
+#### in cmd run this command to activate enviorment:-
 
     env_site/Scripts/activate
 
-## (2)  INSTALL PACKAGES
+### (2)  INSTALL PACKAGES
 
-### in cmd run this command to install packages :-
+#### in cmd run this command to install packages :-
 
     pip install -r  requirements.txt
 
-## (3) RUN THE PROJECT (TO START SERVER)
+### (3) RUN THE PROJECT (TO START SERVER)
 
-### in cmd navigate to assesment run command:-
+#### in cmd navigate to assesment run command:-
 
     cd assesment
 
-### and then to start server run command:-
+#### and then to start server run command:-
 
     python manage.py runserver
 
-### and then  open your browser and go to the link <http://localhost:8000/>
+#### and then  open your browser and go to the link <http://localhost:8000/>
 
       +-----------------------------------+
       |if there is login to admin:-       |
@@ -54,7 +54,7 @@
       |password : root                    |
       +-----------------------------------+
 
-## TO TEST
+# TO TEST
 
 ## Step1
 
